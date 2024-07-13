@@ -9,10 +9,9 @@ import io.cucumber.junit.CucumberOptions;
 @CucumberOptions(
 		features= {"src/test/java/com/fc/Features"},
 		glue= {"com.fc.stepdefinations"},
-		plugin= {"pretty"},
+		plugin= {"pretty","summary"},
 		tags="@FCAPITest",
-		monochrome=true,
-		dryRun=false
+		monochrome=true
 )
 public class RunnerTest{
 	

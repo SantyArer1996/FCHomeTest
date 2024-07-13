@@ -9,6 +9,7 @@
   </properties>
   
   <dependencies>
+  
   	<!-- https://mvnrepository.com/artifact/org.junit.jupiter/junit-jupiter-api -->
 	<dependency>
     	<groupId>org.junit.jupiter</groupId>
@@ -39,13 +40,6 @@
     	<version>7.18.0</version>
 	</dependency>
 	
-	<!-- https://mvnrepository.com/artifact/net.serenity-bdd/serenity-cucumber -->
-	<!--<dependency>
-    	<groupId>net.serenity-bdd</groupId>
-    	<artifactId>serenity-cucumber</artifactId>
-    	<version>4.1.20</version>
-	</dependency>-->
-	
 	<!-- https://mvnrepository.com/artifact/io.rest-assured/rest-assured -->
 	<dependency>
     	<groupId>io.rest-assured</groupId>
@@ -60,11 +54,6 @@
     	<artifactId>cucumber-gherkin</artifactId>
     	<version>7.18.0</version>
 	</dependency>
-
-
-
-
-
 
   </dependencies>
   

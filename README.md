@@ -6,12 +6,12 @@ Please follow the below steps to setup and run this project
      - Enter the command 'git clone https://github.com/SantyArer1996/FCHomeTest.git' and hit Enter.
      - Project code will be copied in the local folder
    b. Using Github Desktop (use this if you have Github Desktop installed in system)
-     - Click on the '<Code>' button
+     - Click on the 'Code' button
      - Click on Open with Github Desktop
      - Provide the path in which you want to clone this repository and Click on Clone button
      - Project code will be cloned in the local folder
    c. Downloading the project as ZIP (use this if above two options are not feasible)
-     - Click on the '<Code>' button
+     - Click on the 'Code' button
      - Click on Download ZIP
      - Extract the ZIP in your local folder
 2. Open IDE such as Eclipse

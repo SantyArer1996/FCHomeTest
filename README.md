@@ -1,7 +1,7 @@
 Please follow the below steps to setup and run this project
 1. Get the project code by following any of the below 3 ways:
    a. Using Git Commands (use this if you have Git Bash configured)
-     - Copy the git repository url by click on the '<Code>' button.
+     - Copy the git repository url by click on the 'Code' button.
      - Open Git Bash in the local folder you want to copy/clone this project
      - Enter the command 'git clone https://github.com/SantyArer1996/FCHomeTest.git' and hit Enter.
      - Project code will be copied in the local folder
